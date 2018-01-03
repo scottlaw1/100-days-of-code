@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 2, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: Both before and after being laid off last summer, I spent quite a bit of time on sites like [HackerRank](http://www.hackerrank.com) and [Udemy](http://www.udemy.com) ramping up on new technology and knocking the rust off of coding skills after 2 1/2 years of pure management.  In my new role I need to ramp up Angular and Node.js, and I intend to use 100 Days of Code to help keep me consistent.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Completed parts 15, 16, and 17 of The Complete Node.js Developer Course on Udemy.  My Notes app saves notes to a file, reads them back from a file, and prevents notes from having duplicated titles.  I also updated the getAll function to call fetchNotes.  Once I get further along in the course we'll see if my implementation matches the instructor's or note.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Tomorrow's Plan**:  Spend at least an hour implementing solutions to HackerRank's 30 Days of Code, beginning with Day 20 (the previous 19 days were done sporadically last year)
