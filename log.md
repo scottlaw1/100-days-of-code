@@ -7,3 +7,6 @@
 **Today's Progress**: Completed parts 15, 16, and 17 of The Complete Node.js Developer Course on Udemy.  My Notes app saves notes to a file, reads them back from a file, and prevents notes from having duplicated titles.  I also updated the getAll function to call fetchNotes.  Once I get further along in the course we'll see if my implementation matches the instructor's or note.
 
 **Tomorrow's Plan**:  Spend at least an hour implementing solutions to HackerRank's 30 Days of Code, beginning with Day 20 (the previous 19 days were done sporadically last year)
+
+### Day 2: January 3, 2018
+**Today's Progress**: Completed Day 20 (sorting with bubble sort) and Day 21 (generics) with C# solutions.  Day 20 took awhile, since I probably haven't written a bubble sort since undergrad.  Also added "remove note" capability to my Notes app.
