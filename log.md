@@ -10,3 +10,6 @@
 
 ### Day 2: January 3, 2018
 **Today's Progress**: Completed Day 20 (sorting with bubble sort) and Day 21 (generics) with C# solutions.  Day 20 took awhile, since I probably haven't written a bubble sort since undergrad.  Also added "remove note" capability to my Notes app.
+
+### Day 3: January 4, 2018
+**Today's Progress**: Added "read note" capability to my Notes app.  I also figured out how to upgrade the version of node I've been running and got rid of my Anaconda install (brew doctor complained about its config scripts and I haven't really used Anaconda, so no need to keep it).
