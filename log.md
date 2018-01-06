@@ -13,3 +13,6 @@
 
 ### Day 3: January 4, 2018
 **Today's Progress**: Added "read note" capability to my Notes app.  I also figured out how to upgrade the version of node I've been running and got rid of my Anaconda install (brew doctor complained about its config scripts and I haven't really used Anaconda, so no need to keep it).
+
+### Day 4: January 5, 2018
+**Today's Progress**: Unfortunately I didn't make a full hour of progress today.  I made a tiny bit of progress with the app you build as part of the [Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents) course (from Pluralsight) when I wasn't conducting testing of some development work I did for my day job.  I also refrain from work and work-related activities during Sabbath hours, so it will be tomorrow evening before I get back to it.
