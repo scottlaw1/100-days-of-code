@@ -16,3 +16,9 @@
 
 ### Day 4: January 5, 2018
 **Today's Progress**: Unfortunately I didn't make a full hour of progress today.  I made a tiny bit of progress with the app you build as part of the [Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents) course (from Pluralsight) when I wasn't conducting testing of some development work I did for my day job.  I also refrain from work and work-related activities during Sabbath hours, so it will be tomorrow evening before I get back to it.
+
+### January 6, 2018
+Missed the full day yesterday, but for a life reason (aunt's 70th birthday party).  Back at it tomorrow.
+
+### Day 5: January 7, 2018
+**Today's Progress**: Learned about node debugging tools (both command-line and in Chrome).  Also completed the basic implementation of the notes application, including required arguments 
