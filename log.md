@@ -21,4 +21,7 @@
 Missed the full day yesterday, but for a life reason (aunt's 70th birthday party).  Back at it tomorrow.
 
 ### Day 5: January 7, 2018
-**Today's Progress**: Learned about node debugging tools (both command-line and in Chrome).  Also completed the basic implementation of the notes application, including required arguments 
+**Today's Progress**: Learned about node debugging tools (both command-line and in Chrome).  Also completed the basic implementation of the notes application, including required arguments. 
+
+### Day 6: January 8, 2018
+**Today's Progress**: Started learning about async programming in node along with a new app for getting weather information. 
