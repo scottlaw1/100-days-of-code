@@ -24,4 +24,4 @@ Missed the full day yesterday, but for a life reason (aunt's 70th birthday party
 **Today's Progress**: Learned about node debugging tools (both command-line and in Chrome).  Also completed the basic implementation of the [notes application](https://github.com/scottlaw1/notes-node), including required arguments. 
 
 ### Day 6: January 8, 2018
-**Today's Progress**: Started learning about async programming in node along with a new app for getting weather information. 
+**Today's Progress**: Started learning about async programming in node along with a new app for getting weather information.  In addition to using the [request package](https://www.npmjs.com/package/request), I installed the [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) plugin for Chrome. 
