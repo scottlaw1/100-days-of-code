@@ -25,3 +25,12 @@ Missed the full day yesterday, but for a life reason (aunt's 70th birthday party
 
 ### Day 6: January 8, 2018
 **Today's Progress**: Started learning about async programming in node along with a new app for getting weather information.  In addition to using the [request package](https://www.npmjs.com/package/request), I installed the [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) plugin for Chrome. 
+
+### Day 7: January 9, 2018
+**Today's Progress**: More progress on Angular Fundamentals, including finishing the course's exploration of templating in Angular.
+
+### Day 8: January 10, 2018
+**Today's Progress**: Today I got through the point in the Angular Fundamentals course of creating a couple of reusable Angular services.  One service factored the events out of the component they were hard-coded into in a separate service.  The second service simply wrapped [Toastr](https://www.npmjs.com/package/toastr).
+
+### Day 9: January 11, 2018
+**Today's Progress**: Started a new section of Angular Fundamentals that covers routing.  I got far enough that clicking on the events in the site we build as part of the course display an event details page (via RouterLink binding).  I also added a link to the navbar that takes you back to main events page.
