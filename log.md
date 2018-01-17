@@ -41,5 +41,5 @@ Missed the full day yesterday, but for a life reason (aunt's 70th birthday party
 ### January 13-15, 2018 
 Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
-### January 16, 2018
+### Day 11: January 16, 2018
 **Today's Progress**: Spent about 90 minutes getting further into async programming with node.  The weather app doesn't retrieve weather for a given address just yet, but it does have error handling along with the ability to accept addresses from the command-line.
