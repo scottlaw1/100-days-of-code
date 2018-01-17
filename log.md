@@ -34,3 +34,12 @@ Missed the full day yesterday, but for a life reason (aunt's 70th birthday party
 
 ### Day 9: January 11, 2018
 **Today's Progress**: Started a new section of Angular Fundamentals that covers routing.  I got far enough that clicking on the events in the site we build as part of the course display an event details page (via RouterLink binding).  I also added a link to the navbar that takes you back to main events page.
+
+### Day 10: January 12, 2018
+**Today's Progress**: Continued learning about routing up to the point of guarding aginst route activation (by invalid routes).
+
+### January 13-15, 2018 
+Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
+
+### January 16, 2018
+**Today's Progress**: Spent about 90 minutes getting further into async programming with node.  The weather app doesn't retrieve weather for a given address just yet, but it does have error handling along with the ability to accept addresses from the command-line.
