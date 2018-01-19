@@ -43,3 +43,12 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 11: January 16, 2018
 **Today's Progress**: Spent about 90 minutes getting further into async programming with node.  The weather app doesn't retrieve weather for a given address just yet, but it does have error handling along with the ability to accept addresses from the command-line.
+
+### Day 12: January 17, 2018
+**Today's Progress**: Today was a break from hands-on Angular and Node learning to read about peer code review.  I read part of an old copy of [Best Kept Secrets of Peer Code Review](https://smartbear.com/SmartBear/media/pdfs/best-kept-secrets-of-peer-code-review.pdf) I got from the very first Stack Overflow Dev Days once upon a time.  There's a ton of good information in here.  We'll see if I can convince my team at work to adapt our code review process to apply some of this.
+
+### Day 13: January 18, 2018
+**Today's Progress**: More progress on Angular Fundamentals, specifically route de-activation.  I was also able to convince my team to try reading code in advance of code review.  We'll find out tomorrow if makes a meaningful impact on the length of our review meeting.
+
+### Day 14: January 19, 2018
+**Today's Progress**:
