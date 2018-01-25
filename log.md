@@ -51,4 +51,7 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 **Today's Progress**: More progress on Angular Fundamentals, specifically route de-activation.  I was also able to convince my team to try reading code in advance of code review.  We'll find out tomorrow if makes a meaningful impact on the length of our review meeting.
 
 ### Day 14: January 19, 2018
-**Today's Progress**:
+**Today's (Lack of) Progress**: The code review meeting did proceed much more quickly today thanks to reading code in advance.  Sadly, no progress on the code front due to feeling sick.
+
+### Day 14, Take 2: January 24, 2018
+**Today's Progress**: Far too long a layoff, but the sick mentioned in my previous entry is a huge culprit.  I finally succumbed to whatever colds, sneezing, sniffling, etc that my twins have been trying to give me all winter.  In any case, I finally spent more time on Angular Fundamentals today, specifically pre-loading data, lazy loading of feature modules and active link styling.
