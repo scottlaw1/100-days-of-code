@@ -55,3 +55,6 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 14, Take 2: January 24, 2018
 **Today's Progress**: Far too long a layoff, but the sick mentioned in my previous entry is a huge culprit.  I finally succumbed to whatever colds, sneezing, sniffling, etc that my twins have been trying to give me all winter.  In any case, I finally spent more time on Angular Fundamentals today, specifically pre-loading data, lazy loading of feature modules and active link styling.
+
+### Day 15: January 29, 2018
+**Today's Progress**: Made a long-overdue return to The Complete Node.js Developer Course on Udemy.  Since I spent 2 1/2 hours instead of just 1, my weather application now takes an address at the command line and returns the temperature and apparent temperature for the latitude and longitude of that address using callback chaining.  The actual weather data comes from the [Dark Sky API](https://darksky.net/dev), which is free to register for.
