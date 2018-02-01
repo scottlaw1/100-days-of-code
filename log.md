@@ -61,3 +61,6 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 16: January 30, 2018
 **Today's Progress**: Today I spent more time on Angular Fundamentals while one of the testing environments I use for my day job was out of commission.  I learned about "barrels" (for organizing exports) and got started on Angular forms and validation.
+
+### Day 17: January 31, 2018
+**Today's Progress**: More Node.js work tonight, this time on promises.  Comparing and contrasting callbacks and promises for handling asynchronous calls was quite interesting.
