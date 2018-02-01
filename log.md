@@ -58,3 +58,6 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 15: January 29, 2018
 **Today's Progress**: Made a long-overdue return to The Complete Node.js Developer Course on Udemy.  Since I spent 2 1/2 hours instead of just 1, my weather application now takes an address at the command line and returns the temperature and apparent temperature for the latitude and longitude of that address using callback chaining.  The actual weather data comes from the [Dark Sky API](https://darksky.net/dev), which is free to register for.
+
+### Day 16: January 30, 2018
+**Today's Progress**: Today I spent more time on Angular Fundamentals while one of the testing environments I use for my day job was out of commission.  I learned about "barrels" (for organizing exports) and got started on Angular forms and validation.
