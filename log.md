@@ -64,3 +64,6 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 17: January 31, 2018
 **Today's Progress**: More Node.js work tonight, this time on promises.  Comparing and contrasting callbacks and promises for handling asynchronous calls was quite interesting.
+
+### Day 18: February 1, 2018
+**Today's Progress**: Took a break from Angular and Node to pick up where I left off with another Udemy course covering Java, Spring, and Hibernate.  I experimented with definition and usage of init-method and destroy-method in Spring configuration.
