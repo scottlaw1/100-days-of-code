@@ -66,4 +66,7 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 **Today's Progress**: More Node.js work tonight, this time on promises.  Comparing and contrasting callbacks and promises for handling asynchronous calls was quite interesting.
 
 ### Day 18: February 1, 2018
-**Today's Progress**: Took a break from Angular and Node to pick up where I left off with another Udemy course covering Java, Spring, and Hibernate.  I experimented with definition and usage of init-method and destroy-method in Spring configuration.
+**Today's Progress**: Took a break from Angular and Node to pick up where I left off with another Udemy course covering Java, Spring, and Hibernate.  I experimented with definition and usage of init-method and destroy-method in Spring configuration.  The rationale for this is the possibility that my team at work may be inheriting ownership of an API written in Java.
+
+### Day 19: February 5, 2018
+**Today's Progress**: Too long a layoff since the last update, but no excuses.  To build my comfort level with all things JavaScript, I followed a [tutorial](https://hackernoon.com/build-a-cryptocurrency-price-tracker-in-5-minutes-d66c3d37ad71) I came across to build a cryptocurrency price tracker.  I modified the publisher.html to include most of the JavaScript in the header (instead of all in-line in a script block like the original author).  The implementation required registering for another API called [PubNub](https://www.pubnub.com/).  I should put my implementation (sans API keys) into GitHub and perhaps expand it to cover more cryptocurrencies.
