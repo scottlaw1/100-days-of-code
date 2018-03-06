@@ -70,3 +70,15 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 19: February 5, 2018
 **Today's Progress**: Too long a layoff since the last update, but no excuses.  To build my comfort level with all things JavaScript, I followed a [tutorial](https://hackernoon.com/build-a-cryptocurrency-price-tracker-in-5-minutes-d66c3d37ad71) I came across to build a cryptocurrency price tracker.  I modified the publisher.html to include most of the JavaScript in the header (instead of all in-line in a script block like the original author).  The implementation required registering for another API called [PubNub](https://www.pubnub.com/).  I should put my implementation (sans API keys) into GitHub and perhaps expand it to cover more cryptocurrencies.
+
+### Day 20: March 1, 2018
+**Today's Progress**: This is day 1 of an in-house machine learning competition, so a co-worker and I spent a full day poking around with Python trying to get a non-trivial amount of data into shape to train a model.
+
+### Day 21: March 2, 2018
+**Today's Progress**: This was day 2 of a competition that was originally scheduled to last 2 days, but AWS problems and a wind storm conspired to knock out enough cloud infrastructure (in addition to closing our corporate HQ) to limit our forward progress to "data shaping".
+
+### Day 22: March 4, 2018
+**Today's Progress**: With the competition deadline extended to March 9, I spent a couple hours today making up for lost time reading and taking notes on machine learning materials I found online.
+
+### Day 23: March 5, 2018
+**Today's Progress**: My co-worker found some good machine learning content over the weekend which I've been adding to a [playlist](https://www.youtube.com/playlist?list=PLQn6WJYuh4tuxI-23AfqlfDavOvVmjA6m) as I proceed.  I ended up writing enough code as I watched these that it seemed like a good idea to save it in a [github repo](https://github.com/scottlaw1/machine-learning).
