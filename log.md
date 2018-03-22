@@ -82,3 +82,15 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 23: March 5, 2018
 **Today's Progress**: My co-worker found some good machine learning content over the weekend which I've been adding to a [playlist](https://www.youtube.com/playlist?list=PLQn6WJYuh4tuxI-23AfqlfDavOvVmjA6m) as I proceed.  I ended up writing enough code as I watched these that it seemed like a good idea to save it in a [github repo](https://github.com/scottlaw1/machine-learning).
+
+### Day 24: March 6, 2018
+**Today's Progress**: Wrote some data exploration scripts in Python for a 8GB dataset.
+
+### Day 25: March 7, 2018
+**Today's Progress**: Wrote a regression pipeline on a subset of data and computed the mean squared error.
+
+### Day 26: March 9, 2018
+**Today's Progress**: Wrote a Jupyter notebook summarizing the data exploration and feature engineering from earlier in the week.
+
+### Day 27: March 21, 2018
+**Today's Progress**: After the end of the machine learning competition (and a break from coding outside of work), jumped back into the weather app from January and used the Axios library instead of wrapping calls to a non-promise supporting library in promises.
