@@ -94,3 +94,6 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 27: March 21, 2018
 **Today's Progress**: After the end of the machine learning competition (and a break from coding outside of work), jumped back into the weather app from January and used the Axios library instead of wrapping calls to a non-promise supporting library in promises.
+
+### Day 28: March 22, 2018
+**Today's Progress**: Researched and compiled the first draft of an abbreviated history of C#.  The impetus for this was a conversation with a VP at work who was curious about the work my team does in .NET because he never worked on that tech stack when he was an individual contributor on development teams.  I was pleasantly surprised to discover as I researched that my recollections of nearly 20 years ago regarding the legal battle between Microsoft and Sun over Java and J++ were pretty much on-target.
