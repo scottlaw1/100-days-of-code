@@ -97,3 +97,6 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 28: March 22, 2018
 **Today's Progress**: Researched and compiled the first draft of an abbreviated history of C#.  The impetus for this was a conversation with a VP at work who was curious about the work my team does in .NET because he never worked on that tech stack when he was an individual contributor on development teams.  I was pleasantly surprised to discover as I researched that my recollections of nearly 20 years ago regarding the legal battle between Microsoft and Sun over Java and J++ were pretty much on-target.
+
+### Day 29: March 26, 2018
+**Today's Progress**: More Node tonight.  This time we implemented a webserver in Node using the Express webserver framework.  I'll keep an ongoing repo of that project here [here](https://github.com/scottlaw1/node-web-server).
