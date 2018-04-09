@@ -100,3 +100,6 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 
 ### Day 29: March 26, 2018
 **Today's Progress**: More Node tonight.  This time we implemented a webserver in Node using the Express webserver framework.  I'll keep an ongoing repo of that project here [here](https://github.com/scottlaw1/node-web-server).
+
+### Day 30: April 8, 2018
+**Today's Progress**: Tonight I did some templating with Handlebars.
