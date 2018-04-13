@@ -99,10 +99,13 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 **Today's Progress**: Researched and compiled the first draft of an abbreviated history of C#.  The impetus for this was a conversation with a VP at work who was curious about the work my team does in .NET because he never worked on that tech stack when he was an individual contributor on development teams.  I was pleasantly surprised to discover as I researched that my recollections of nearly 20 years ago regarding the legal battle between Microsoft and Sun over Java and J++ were pretty much on-target.
 
 ### Day 29: March 26, 2018
-**Today's Progress**: More Node tonight.  This time we implemented a webserver in Node using the Express webserver framework.  I'll keep an ongoing repo of that project here [here](https://github.com/scottlaw1/node-web-server).
+**Today's Progress**: More Node tonight.  This time we implemented a webserver in Node using the Express webserver framework.  I'll keep an ongoing repo of that project [here](https://github.com/scottlaw1/node-web-server).
 
 ### Day 30: April 8, 2018
 **Today's Progress**: Tonight I did some templating with Handlebars.
 
 ## Day 31: April 10, 2018
 **Today's Lack of Progress**: I heard about the React-Python dev stack at work today, and thought I'd find an example and try to get it working.  [This example](https://codeburst.io/creating-a-full-stack-web-application-with-python-npm-webpack-and-react-8925800503d9) did not work as advertised because I never managed to get 'npm run watch' to work.  I kept getting an error where npm couldn't find the webpack.config.js module.  Tomorrow I will just try a webpack demo to see if I can figure out where I went wrong.
+
+## Day 32: April 12, 2018
+**Today's Progress**: I was able to get the [Webpack demo](https://webpack.js.org/guides/getting-started/) working.  Then I tried the example from Day 31 again.  I got as far as getting the 'Hello World' pop-up to work.  The work in progress is available [here](https://github.com/scottlaw1/hello-react).
