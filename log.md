@@ -104,8 +104,11 @@ Missed extra time due to my own birthday (#44).  Day 11 starts tomorrow.
 ### Day 30: April 8, 2018
 **Today's Progress**: Tonight I did some templating with Handlebars.
 
-## Day 31: April 10, 2018
+### Day 31: April 10, 2018
 **Today's Lack of Progress**: I heard about the React-Python dev stack at work today, and thought I'd find an example and try to get it working.  [This example](https://codeburst.io/creating-a-full-stack-web-application-with-python-npm-webpack-and-react-8925800503d9) did not work as advertised because I never managed to get 'npm run watch' to work.  I kept getting an error where npm couldn't find the webpack.config.js module.  Tomorrow I will just try a webpack demo to see if I can figure out where I went wrong.
 
-## Day 32: April 12, 2018
+### Day 32: April 12, 2018
 **Today's Progress**: I was able to get the [Webpack demo](https://webpack.js.org/guides/getting-started/) working.  Then I tried the example from Day 31 again.  I got as far as getting the 'Hello World' pop-up to work.  The work in progress is available [here](https://github.com/scottlaw1/hello-react).
+
+### Day 33: April 13, 2018
+**Today's Progress**: I finished the demo I first attempted on Day 31.  The completed app is available [here](https://github.com/scottlaw1/hello-react).
